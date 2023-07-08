@@ -21,7 +21,7 @@ function App() {
      <div>
        <div>
          <Routes>
-           <Route path="/cunghocthuattoan" element={<ProblemList />} />
+           <Route path="/" element={<ProblemList />} />
 
            <Route
              path="/kiem-so-lon-nhat-trong-mang"
