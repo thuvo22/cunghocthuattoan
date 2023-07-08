@@ -7,7 +7,7 @@ import Navbar from 'react-bootstrap/Navbar';
 const NavBar = () => {
     return (<Navbar bg="primary" data-bs-theme="dark">
     <Container>
-        <Navbar.Brand href="/"><h4 className="home-title">Cùng Học Thuật Toán</h4></Navbar.Brand>
+        <Navbar.Brand href="/cunghocthuattoan"><h4 className="home-title">Cùng Học Thuật Toán</h4></Navbar.Brand>
     </Container>
 </Navbar>)
 }
